@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
 
-body {
+.container {
 	background-color: #D8BFD8;
 	font-family: 'Arima Madurai', cursive;
+	text-align: center;
+
 }
